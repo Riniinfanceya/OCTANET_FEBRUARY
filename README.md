@@ -55,8 +55,8 @@ Repository
     </header>
 
     <section>
-        <h2>Welcome to our Web Development Hub!</h2>
-        <p>Transform your ideas into reality with our expert web development services. We specialize in creating modern, responsive, and user-friendly websites tailored to your needs.</p>
+        <h2>Welcome to our Tutorial!</h2>
+        <p>Transform your ideas into reality with our expert services. We specialize in creating modern, responsive, and user-friendly approach to your needs.</p>
         <button>Contact Us</button>
     </section>
 </body>
